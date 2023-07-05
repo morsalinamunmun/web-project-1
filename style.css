@@ -1,0 +1,12 @@
+.text{
+    text-align: center;
+}
+.color{
+    color:rgb(227, 5, 83);
+}
+.border{
+    border-left: 5px solid red;
+}
+.borderr{
+     border-left: 4px solid red;
+  }
